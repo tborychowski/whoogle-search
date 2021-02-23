@@ -1,4 +1,6 @@
-# [Whoogle Search](https://github.com/benbusby/whoogle-search) restyled
+# Whoogle Search - simplified
+
+This is a fork of [Whoogle Search](https://github.com/benbusby/whoogle-search) stripped down of all settings, autocomplete and other weird scripts. Just 1 dark style and the bare minimum.
 
 ![](docs/restyled.png)
 
