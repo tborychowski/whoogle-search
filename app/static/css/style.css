@@ -45,13 +45,13 @@ details summary { padding: 10px; font-weight: bold; }
 
 /* title link */
 #main a h3,
-#main a h3 div { color: #5082c7; font-size: 18px; }
+#main a h3 div { color: #75afff; font-size: 18px; }
 
 /* additional info text */
-#main .s3v9rd.AP7Wnd { color: #999; }
+#main .s3v9rd.AP7Wnd { color: #ccc; }
 
 /* lines */
-#main .OXXup { border: none; color: #5082c7; }
+#main .OXXup { border: none; color: #75afff; }
 #main .Q0HXG,
 #main .x54gtf,
 #main .LKSyXe { background-color: #222; margin: 0; }
